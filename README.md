@@ -1,2 +1,0 @@
-# INTERNPE-INTERNSHIP
-internship project 
